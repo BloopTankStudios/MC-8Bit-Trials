@@ -29,6 +29,48 @@
 	  }
     ]
   },
+  "item.armor.equip_chain": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_diamond": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_generic": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_gold": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_iron": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_leather": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
+  "item.armor.equip_netherite": {
+	"replace": true,
+    "sounds": [
+      "8bit/armor/equip"
+    ]
+  },
   "block.grass.break": {
 	"replace": true,
     "sounds": [
