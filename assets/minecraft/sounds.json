@@ -1,4 +1,16 @@
 {
+  "ambient.underwater.loop.additions": {
+	"replace": true,
+    "sounds": []
+  },
+  "ambient.underwater.loop.additions.rare": {
+	"replace": true,
+    "sounds": []
+  },
+  "ambient.underwater.loop.additions.ultra_rare": {
+	"replace": true,
+    "sounds": []
+  },
   "block.copper_door.open": {
 	"replace": true,
     "sounds": [
