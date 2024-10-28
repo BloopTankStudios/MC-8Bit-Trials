@@ -1212,6 +1212,71 @@
 	  }
     ]
   },
+    "block.amethyst_block.break": {
+	"replace": true,
+    "sounds": [
+	  {
+		"name": "8bit/block/copper_break1",
+		"pitch": 1.5
+	  },
+      {
+		"name": "8bit/block/copper_break2",
+		"pitch": 1.5
+	  }
+    ]
+  },
+  "block.amethyst_block.fall": {
+	"replace": true,
+    "sounds": [
+	  {
+		"name": "8bit/block/copper_step1",
+		"pitch": 1.5
+	  },
+      {
+		"name": "8bit/block/copper_step2",
+		"pitch": 1.5
+	  }
+    ]
+  },
+  "block.amethyst_block.hit": {
+	"replace": true,
+    "sounds": [
+	  {
+		"name": "8bit/block/copper_step1",
+		"pitch": 1.5
+	  },
+      {
+		"name": "8bit/block/copper_step2",
+		"pitch": 1.5
+	  }
+    ]
+  },
+  "block.amethyst_block.place": {
+	"replace": true,
+    "sounds": [
+      {
+		"name": "8bit/block/copper_break1",
+		"pitch": 1.5
+	  },
+      {
+		"name": "8bit/block/copper_break2",
+		"pitch": 1.5
+	  }
+	]
+  },
+  "block.amethyst_block.step": {
+	"replace": true,
+    "sounds": [
+	  {
+		"name": "8bit/block/copper_step1",
+		"pitch": 1.5
+	  },
+      {
+		"name": "8bit/block/copper_step2",
+		"pitch": 1.5
+	  }
+    ]
+  },
   "block.wood.break": {
 	"replace": true,
     "sounds": [
