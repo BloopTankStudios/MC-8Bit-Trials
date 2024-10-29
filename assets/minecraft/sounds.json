@@ -11,6 +11,22 @@
 	"replace": true,
     "sounds": []
   },
+  "entity.bat.ambient": {
+	"replace": true,
+    "sounds": []
+  },
+  "entity.bat.loop": {
+	"replace": true,
+    "sounds": []
+  },
+  "entity.bat.takeoff": {
+	"replace": true,
+    "sounds": []
+  },
+  "entity.enderman.ambient": {
+	"replace": true,
+    "sounds": []
+  },
   "block.copper_door.open": {
 	"replace": true,
     "sounds": [
